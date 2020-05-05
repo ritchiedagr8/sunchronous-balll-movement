@@ -1,1 +1,2 @@
-# sunchronous-balll-movement
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
